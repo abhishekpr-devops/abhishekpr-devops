@@ -1,13 +1,30 @@
 # Hi, I'm Abhishek PR
 
-DevOps Intern focused on Linux, GitHub Actions, Docker, Kubernetes, AWS, Terraform, and CI/CD.
+Entry-level DevOps and Cloud learner building hands-on projects with Linux, Docker, Terraform, AWS, GitHub Actions, CI/CD, and monitoring.
+
+## What I've Built
+
+### Terraform AWS Production Lab
+Built an AWS infrastructure lab using Terraform with VPC, subnet, internet gateway, route table, security group, EC2, S3 remote state, state locking, modules, drift detection, and import workflow.
+
+### Calculator CI/CD Pipeline
+Built a Flask API with Pytest, GitHub Actions, SonarCloud, Docker, DockerHub, and AWS EC2 deployment.
+
+### Docker Multi-App
+Built a multi-container Docker project using Flask, Nginx reverse proxy, and Docker networking.
+
+### Kingdom Frontier 2D
+Built and deployed a browser-based 2D game using React, Vite, Phaser, JavaScript, and CSS.
 
 ## Current Focus
-- Linux Administration
-- Git and GitHub
-- Docker
-- Kubernetes
-- GitHub Actions
-- AWS
-- Terraform
 
+- AWS SAA-C03 preparation
+- Terraform Infrastructure as Code
+- Docker and container networking
+- CI/CD with GitHub Actions
+- Linux troubleshooting
+- Monitoring and alerting
+
+## Goal
+
+To become job-ready for entry-level DevOps and Cloud Engineer roles by building practical projects and documenting them clearly.
