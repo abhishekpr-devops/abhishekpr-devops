@@ -18,7 +18,6 @@ Built and deployed a browser-based 2D game using React, Vite, Phaser, JavaScript
 
 ## Current Focus
 
-- AWS SAA-C03 preparation
 - Terraform Infrastructure as Code
 - Docker and container networking
 - CI/CD with GitHub Actions
