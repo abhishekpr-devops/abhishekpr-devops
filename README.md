@@ -2,7 +2,7 @@
 
 ### ☁️ Aspiring DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
-> Building cloud infrastructure, automating deployments, and learning DevOps by doing.
+Building cloud infrastructure, automating deployments, and learning DevOps by doing.
 
 ---
 
@@ -16,23 +16,19 @@
 
 ### 🚀 Projects
 
-| 🔧 Project                                                                                            | 💡 Focus                                        |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **[Terraform AWS Production Lab](https://github.com/abhishekpr-devops/terraform-aws-production-lab)** | AWS Infrastructure • Terraform • VPC • EC2 • S3 |
-| **[Calculator CI/CD](https://github.com/abhishekpr-devops/calculator-cicd-sonarqube)**                | GitHub Actions • Docker • SonarCloud • EC2      |
-| **[Docker Multi-App](https://github.com/abhishekpr-devops/docker-multi-app)**                         | Docker • Nginx • Python • Bash                  |
+| Project                                                                                               | Focus                                      |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [**Terraform AWS Production Lab**](https://github.com/abhishekpr-devops/terraform-aws-production-lab) | AWS • Terraform • VPC • EC2 • S3           |
+| [**Calculator CI/CD**](https://github.com/abhishekpr-devops/calculator-cicd-sonarqube)                | GitHub Actions • Docker • SonarCloud • EC2 |
+| [**Docker Multi-App**](https://github.com/abhishekpr-devops/docker-multi-app)                         | Docker • Nginx • Python • Bash             |
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekpr-devops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpr-devops&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpr-devops&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,13 +36,15 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/abhishek-pr-522409274/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/abhishekpr-devops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <b>Build • Automate • Deploy • Improve 🚀</b>
