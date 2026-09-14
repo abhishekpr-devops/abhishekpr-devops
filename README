@@ -1,1 +1,33 @@
 
+# Hi, I'm Abhishek P R
+
+**Aspiring Junior DevOps Engineer** | Computer Science Graduate
+
+I build cloud infrastructure, automate deployments, and practice DevOps workflows using Linux, AWS, Docker, Terraform, and GitHub Actions.
+
+## What I Work With
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20VPC-informational?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-informational?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-informational?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-informational?style=flat&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-informational?style=flat&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS-informational?style=flat&logo=cloudflare&logoColor=white)
+
+## Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Terraform AWS Production Lab](https://github.com/abhishekpr-devops/terraform-aws-production-lab) | Terraform, AWS, VPC, EC2, S3, Remote State | Production-style IaC with modules, drift detection, and state locking |
+| [Calculator CI/CD with SonarCloud](https://github.com/abhishekpr-devops/calculator-cicd-sonarqube) | GitHub Actions, Docker, Python, SonarCloud | End-to-end CI/CD pipeline with testing, quality gates, and EC2 deployment |
+| [Docker Multi-App](https://github.com/abhishekpr-devops/docker-multi-app) | Docker, Nginx, Python, Bash | Multi-container app with reverse proxy and Bash automation |
+| [Production Deployment & Infrastructure Setup](https://github.com/abhishekpr-devops) | Cloudflare, Nginx, Docker, Git | Real-world production deployment with DNS, reverse proxy, and persistent storage |
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/in/abhishek-pr-522409274) | [GitHub](https://github.com/abhishekpr-devops)
+
+---
+
+> "I learn by building, breaking, and fixing things — then documenting what I learned."
