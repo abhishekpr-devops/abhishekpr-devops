@@ -24,15 +24,6 @@ Building cloud infrastructure, automating deployments, and learning DevOps by do
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpr-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpr-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-
----
 
 ### 🤝 Connect With Me
 
