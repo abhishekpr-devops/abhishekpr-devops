@@ -16,11 +16,11 @@ Building cloud infrastructure, automating deployments, and learning DevOps by do
 
 ### 🚀 Projects
 
-| Project                                                                                               | Focus                                      |
-| :---------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**Terraform AWS Production Lab**](https://github.com/abhishekpr-devops/terraform-aws-production-lab) | AWS • Terraform • VPC • EC2 • S3           |
-| [**Calculator CI/CD**](https://github.com/abhishekpr-devops/calculator-cicd-sonarqube)                | GitHub Actions • Docker • SonarCloud • EC2 |
-| [**Docker Multi-App**](https://github.com/abhishekpr-devops/docker-multi-app)                         | Docker • Nginx • Python • Bash             |
+| Project | What I built | Focus |
+| :-- | :-- | :-- |
+| [**Terraform AWS Production Lab ↗**](https://github.com/abhishekpr-devops/terraform-aws-production-lab) | Infrastructure-as-Code setup that provisions AWS resources with Terraform | AWS • Terraform • VPC • EC2 • S3 |
+| [**Calculator CI/CD ↗**](https://github.com/abhishekpr-devops/calculator-cicd-sonarqube) | Automated pipeline that tests, scans, builds and deploys an app | GitHub Actions • Docker • SonarCloud • EC2 |
+| [**Docker Multi-App ↗**](https://github.com/abhishekpr-devops/docker-multi-app) | Multiple containerized apps served behind an Nginx reverse proxy | Docker • Nginx • Python • Bash |
 
 ---
 
@@ -28,7 +28,7 @@ Building cloud infrastructure, automating deployments, and learning DevOps by do
 
 <p align="center">
   <a href="https://abhishek-lab.store/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Click%20Here-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/abhishek-pr-522409274/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
