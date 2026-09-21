@@ -4,12 +4,6 @@
 
 Building cloud infrastructure, automating deployments, and learning DevOps by doing.
 
-<p align="center">
-  <a href="https://abhishek-lab.store/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-abhishek--lab.store-0A66C2?style=for-the-badge"/>
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -34,7 +28,7 @@ Building cloud infrastructure, automating deployments, and learning DevOps by do
 
 <p align="center">
   <a href="https://abhishek-lab.store/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-abhishek--lab.store-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Click%20Here-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/abhishek-pr-522409274/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
